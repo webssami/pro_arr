@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
-//배너이미지 4개
+
 
 import Images from './Images.js';
-//음식이미지 4개
+//배너 이미지와 음식이미지 배열처리
 
 
 import './App_main.css';
