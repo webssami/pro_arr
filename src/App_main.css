@@ -1,0 +1,39 @@
+.h_top{
+    padding: 10px;
+    background: #06c;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cont{
+    margin: 10px;
+    width: 500px;
+    border: 1px solid #000;
+    padding: 10px;
+}
+.icon_smile{
+    font-size: 30px;
+    color: #ff0;
+    vertical-align: middle;
+}
+
+.title{
+    margin: 30px 0 10px;
+    text-align: center;
+}
+.banner_wrap{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1400px;
+    margin: 10px auto;
+}
+
+
+/* footer /////////////////// */
+.foot{
+    background: #ddd;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}

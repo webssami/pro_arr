@@ -1,0 +1,16 @@
+.bnList, .col4 .bnList{
+    width: 23%;
+}
+.bnList .bnImg img{
+    width: 100%;
+}
+.bnList p{
+    text-align: center;
+    color: #333;
+}
+.col3 .bnList{
+    width: 30%;
+}
+.col2 .bnList{
+    width: 48%;
+}
