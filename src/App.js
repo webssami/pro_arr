@@ -17,7 +17,7 @@ import Foodw from './Foodw';
 
 function App() {
   const contents = '리액트 재미있다 !!';
-  const writer = '박사랑';
+  const writer = '박믿음';
   const contWriter = contents + ' - ' + writer;
   const p_style = {color:'#0f0'};
 
