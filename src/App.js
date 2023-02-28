@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 
 import Images from './Images.js';
 //배너 이미지와 음식이미지 배열처리
-
+//두번째 수정본
 
 import './App_main.css';
 import { CiFaceSmile } from 'react-icons/ci';
